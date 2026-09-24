@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T10:01:14.856828Z",
+  "generated_at": "2026-09-24T11:44:32.809524Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8508,
-      "importance": 0.8508,
-      "importance_score": 0.8508,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7987,
+        "recency": 0.7791,
         "story_heat": 0.5
       },
       "category": "official",
@@ -141,7 +141,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -304,15 +304,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8096,
+        "recency": 0.7897,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -339,7 +339,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -422,7 +422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -528,15 +528,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
+      "score": 0.8231,
+      "importance": 0.8231,
+      "importance_score": 0.8231,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8517,
+        "recency": 0.8308,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -563,7 +563,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -611,15 +611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8338,
+        "recency": 0.8133,
         "story_heat": 0.0
       },
       "category": "official",
@@ -646,7 +646,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -694,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.817,
-      "importance": 0.817,
-      "importance_score": 0.817,
+      "score": 0.8138,
+      "importance": 0.8138,
+      "importance_score": 0.8138,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7276,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -729,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -777,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8159,
-      "importance": 0.8159,
-      "importance_score": 0.8159,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7992,
+        "recency": 0.7796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -812,7 +812,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -860,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8096,
-      "importance": 0.8096,
-      "importance_score": 0.8096,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7645,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "official",
@@ -895,7 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -943,15 +943,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7935,
+        "recency": 0.774,
         "story_heat": 0.0
       },
       "category": "official",
@@ -978,7 +978,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1026,15 +1026,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8053,
-      "importance": 0.8053,
-      "importance_score": 0.8053,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.993,
+        "recency": 0.9687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,12 +1060,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
       "story_id": "story_4784460ec311",
-      "title": "Local sandboxing in the GitHub Copilot app",
+      "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
       "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "source": "GitHub Changelog",
@@ -1073,8 +1073,8 @@
       "sources": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -1093,8 +1093,8 @@
       "items": [
         {
           "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "Local sandboxing in the GitHub Copilot app",
-          "title_zh": null,
+          "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+          "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
           "title_en": "Local sandboxing in the GitHub Copilot app",
           "title_original": "Local sandboxing in the GitHub Copilot app",
           "summary": null,
@@ -1108,15 +1108,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8114,
+      "importance": 0.8114,
+      "importance_score": 0.8114,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.76,
+        "recency": 0.7413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,8 +1129,8 @@
       "latest_at": "2026-09-23T15:00:57Z",
       "primary_item": {
         "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "Local sandboxing in the GitHub Copilot app",
-        "title_zh": null,
+        "title": "GitHub Copilot 应用程序中的本地沙箱 / Local sandboxing in the GitHub Copilot app",
+        "title_zh": "GitHub Copilot 应用程序中的本地沙箱",
         "title_en": "Local sandboxing in the GitHub Copilot app",
         "title_original": "Local sandboxing in the GitHub Copilot app",
         "summary": null,
@@ -1143,7 +1143,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1191,15 +1191,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8101,
+      "importance": 0.8101,
+      "importance_score": 0.8101,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7412,
+        "recency": 0.723,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1226,7 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1274,15 +1274,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.811,
-      "importance": 0.811,
-      "importance_score": 0.811,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7276,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1309,7 +1309,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1357,15 +1357,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7743,
+      "importance": 0.7743,
+      "importance_score": 0.7743,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8901,
+        "recency": 0.8683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1391,7 +1391,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1439,15 +1439,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7711,
+        "recency": 0.7521,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1474,7 +1474,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1522,15 +1522,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7711,
-      "importance": 0.7711,
-      "importance_score": 0.7711,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7838,
+        "recency": 0.7645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1556,7 +1556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1604,15 +1604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7707,
-      "importance": 0.7707,
-      "importance_score": 0.7707,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9006,
+        "recency": 0.8785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1638,7 +1638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1686,15 +1686,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1720,7 +1720,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1768,15 +1768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8588,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1802,7 +1802,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     },
     {
@@ -1850,15 +1850,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8025,
+        "recency": 0.7827,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1884,7 +1884,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-09-24T10:02:17.833742Z"
+        "scored_at": "2026-09-24T12:02:05.282675Z"
       }
     }
   ]
